@@ -1,0 +1,9 @@
+body {
+  background: pink;
+}
+.card-header {
+  color: #000;
+}
+.card-body {
+  color: #222;
+}
